@@ -1,7 +1,0 @@
-João Pedro Bonifácio Diniz Maciel
-Kauã Messias Silva Santos
-João Vitor Costa Machado
-Marcell Henrique Meneses Ribeiro
-Manoel Geremias Torres Couto Junior
-
-instrucoes: abra o cmd, digite as pecas que quer adicionar, e apos isso abra o csv com excel
